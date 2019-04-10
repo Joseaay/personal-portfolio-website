@@ -2,7 +2,7 @@
 
 > Code for my current personal website
 
-<img align="right" src="./src/static/images/screenshot.gif" alt="Screenchot" width="350" />
+<img align="right" src="./src/static/images/screenshot.gif" alt="Screenchot" width="380" />
 The idea is to have a special spot in the internet for sharing all my projects and personal achivements.
 
 The website will have the following:
@@ -14,7 +14,7 @@ The website will have the following:
 -   A breakdown graphic of my technical skills and tech set.
 -   Contact section for being able to reach me
 
-> > This project is a **_WORK IN PROGRESS_** development so I'll be filling up all the different sections little by little.
+> This project is a **_WORK IN PROGRESS_** development so I'll be filling up all the different sections little by little.
 
 ---
 
