@@ -1,0 +1,10 @@
+{
+	"apps": [
+		{
+			"name": "Personal Protfolio Website",
+			"script": "npx",
+			"interpreter": "none",
+			"args": "serve build/ -p 3000"
+		}
+	]
+}

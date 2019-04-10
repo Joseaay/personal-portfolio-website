@@ -1,0 +1,13 @@
+.scramble {
+    &__text {
+        font-weight: 600;
+        font-size: 27px;
+        line-height: 40px;
+        text-align: right;
+        direction: rtl;
+        color: #FAFAFA;
+        &__loader {
+            color: #757575;
+        }
+    }
+}

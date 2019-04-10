@@ -1,0 +1,20 @@
+.first-section {
+    &__content {
+        &__group {
+            height: 400px;
+            width: 100%;
+            .block {
+                height: 300px;
+                width: 300px;
+                &--first {
+                    float: left;
+                    background-color: white;
+                }
+                &--second {
+                    float: right;
+                    background-color: red;
+                }
+            }
+        }
+    }
+}
