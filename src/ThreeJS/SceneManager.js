@@ -46,6 +46,7 @@ export default (canvas, speed, autoRotateSpeed, enableZoom) => {
 		controls.autoRotate = !!autoRotateSpeed;
 		controls.autoRotateSpeed = autoRotateSpeed;
 		controls.enableZoom = enableZoom;
+		controls.enableKeys = false;
 
 		return camera;
 	};
