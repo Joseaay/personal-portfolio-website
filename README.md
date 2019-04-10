@@ -1,5 +1,8 @@
 # Personal Portfolio Website 🚀
 
+[![Build Status][travis-image]][travis-url]
+[![License: GPL v3][license-image]][license-url]
+
 > Code for my current personal website
 
 <img align="right" src="./src/static/images/screenshot.gif" alt="Screenchot" width="380" />
@@ -80,3 +83,10 @@ Jose Antonio Ayllón Llamas
 <br>
 **📚 StackOverflow**: [https://stackoverflow.com/users/6627524/jose-a-ayll%C3%B3n](https://stackoverflow.com/users/6627524/jose-a-ayll%C3%B3n)
 <br>
+
+<!-- Markdown link & img -->
+
+[travis-image]: https://travis-ci.com/Joseaay/personal-portfolio-website.svg?branch=master
+[travis-url]: https://travis-ci.com/Joseaay/personal-portfolio-website
+[license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://opensource.org/licenses/MIT
