@@ -1,6 +1,8 @@
 # Personal Portfolio Website 🚀
 
 [![Build Status][travis-image]][travis-url]
+[![Maintainability][Maintainability-image]][Maintainability-url]
+[![codebeat badge][codebeat-image]][codebeat-url]
 [![License: GPL v3][license-image]][license-url]
 
 > Code for my current personal website
@@ -90,3 +92,7 @@ Jose Antonio Ayllón Llamas
 [travis-url]: https://travis-ci.com/Joseaay/personal-portfolio-website
 [license-image]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://opensource.org/licenses/MIT
+[Maintainability-image]: https://api.codeclimate.com/v1/badges/fdfd119ee1fcb1829519/maintainability
+[Maintainability-url]: https://codeclimate.com/github/Joseaay/personal-portfolio-website/maintainability
+[codebeat-image]: https://codebeat.co/badges/f5c9c81b-d730-427e-8d81-ba18fb9beb0f
+[codebeat-url]: https://codebeat.co/projects/github-com-joseaay-personal-portfolio-website-master
